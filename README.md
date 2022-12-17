@@ -28,8 +28,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/kent5205/Product-Preview-Card-)
-- Live Site URL: [Vercel](https://product-preview-card-4dzz.vercel.app/)
+- Solution URL: [Github](https://github.com/kentbuno/Product-Preview-Component)
+- Live Site URL: [Vercel](https://product-preview-component-delta.vercel.app/)
 
 ## My process
 
@@ -245,7 +245,7 @@ button:hover {
 
 ## Author
 
-- Frontend Mentor - [@kent5205](https://www.frontendmentor.io/profile/kent5205)
+- Frontend Mentor - [@kentbuno](https://www.frontendmentor.io/profile/kentbuno)
 
 ## Acknowledgments
 
